@@ -62,18 +62,24 @@ A curated list of Generative Models in Autonomous Driving. Keep Update.
 
 + [Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://arxiv.org/abs/2311.01017) (Nov., 2023) (ICLR2024) 
 
-  [![Star](https://img.shields.io/github/stars/nv-tlabs/DriveGAN_code.svg?style=social&label=Star)](https://github.com/nv-tlabs/DriveGAN_code)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.01017)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/DriveGAN/) 
 
 + [MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/abs/2311.11762) (Nov., 2023) (ICLR2024) 
 
-  [![Star](https://img.shields.io/github/stars/nv-tlabs/DriveGAN_code.svg?style=social&label=Star)](https://github.com/nv-tlabs/DriveGAN_code)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11762)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/DriveGAN/) 
 
 
++ [Driving into the Future: Multiview Visual Forecasting and Planning](https://arxiv.org/abs/2311.17918) (Nov., 2023) 
 
+  [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17918)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://drive-wm.github.io/) 
+
++ [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) (Nov., 2023) 
+
+  [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17918)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://drive-wm.github.io/) 
 
 
 
