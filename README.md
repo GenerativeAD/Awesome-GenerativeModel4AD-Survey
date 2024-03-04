@@ -69,20 +69,33 @@ A curated list of Generative Models in Autonomous Driving. Keep Update.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.11762)
 
 
-+ [Driving into the Future: Multiview Visual Forecasting and Planning](https://arxiv.org/abs/2311.17918) (Nov., 2023) 
++ [Driving into the Future: Multiview Visual Forecasting and Planning](https://arxiv.org/abs/2311.17918) (Nov., 2023) (CVPR2024)
 
   [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17918)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://drive-wm.github.io/) 
 
-+ [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) (Nov., 2023) 
++ [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) (Nov., 2023) 
 
-  [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17918)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13549)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://drive-wm.github.io/) 
 
 
++ [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) (Sep., 2023) 
 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17080)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/scaling-gaia-1/) 
+
+
++ [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) (Sep., 2023) 
+  [![Star](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.09777)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://drivedreamer.github.io/) 
+
++ [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (Jan., 2024) 
+  [![Star](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/WorldDreamer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09985)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/) 
 <!-- + [EvalCrafter: Benchmarking and Evaluating Large Video Gen`eration Models](https://arxiv.org/abs/2310.11440) (Oct., 2023)      
   [![Star](https://img.shields.io/github/stars/EvalCrafter/EvalCrafter.svg?style=social&label=Star)](https://github.com/EvalCrafter/EvalCrafter)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11440)
